@@ -1,0 +1,350 @@
+<<<<<<< HEAD
+Sep 25, 2023 2:55:37 PM MainApplication <init>
+INFO: HELO
+Sep 25, 2023 2:55:37 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.159.59:8040
+Sep 25, 2023 2:55:37 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.95.60:8040
+Sep 25, 2023 2:55:37 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.157.181:8040
+Sep 25, 2023 2:55:37 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.159.60:8040
+Sep 25, 2023 2:55:37 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.95.61:8040
+Sep 25, 2023 2:55:37 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.157.182:8040
+Sep 25, 2023 2:55:37 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.159.61:8040
+Sep 25, 2023 2:55:37 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.95.62:8040
+Sep 25, 2023 2:55:37 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.157.183:8040
+Sep 25, 2023 2:55:37 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.159.62:8040
+Sep 25, 2023 2:55:42 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:55:47 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:55:53 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:55:59 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:05 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:11 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:17 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:23 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:29 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:35 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:41 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:47 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:53 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:59 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:05 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:11 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:17 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:23 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:29 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:35 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:41 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:47 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:53 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:59 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:05 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:11 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:17 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:23 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:29 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:35 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:41 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:47 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:53 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:59 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:05 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:11 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:17 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:23 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:29 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:35 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:41 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:47 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:53 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:59 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:05 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:11 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:17 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:23 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:29 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:35 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:41 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:47 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:53 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:59 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:05 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:11 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:17 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:23 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:29 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:35 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:41 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:47 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:53 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:59 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:05 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:11 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:17 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:23 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:29 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:35 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:41 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:47 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:53 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:59 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:03:05 PM MainApplication simulateGossip
+=======
+Sep 25, 2023 2:55:30 PM MainApplication <init>
+INFO: HELO
+Sep 25, 2023 2:55:30 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.159.59:8040
+Sep 25, 2023 2:55:30 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.95.60:8040
+Sep 25, 2023 2:55:30 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.157.181:8040
+Sep 25, 2023 2:55:30 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.159.60:8040
+Sep 25, 2023 2:55:30 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.95.61:8040
+Sep 25, 2023 2:55:30 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.157.182:8040
+Sep 25, 2023 2:55:30 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.159.61:8040
+Sep 25, 2023 2:55:30 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.95.62:8040
+Sep 25, 2023 2:55:30 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.157.183:8040
+Sep 25, 2023 2:55:30 PM MainApplication printStartupMessage
+INFO: Starting node: 172.22.159.62:8040
+Sep 25, 2023 2:55:35 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:55:40 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:55:46 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:55:52 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:55:58 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:04 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:10 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:16 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:22 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:28 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:34 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:40 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:46 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:52 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:56:58 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:04 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:10 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:16 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:22 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:28 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:34 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:40 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:46 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:52 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:57:58 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:04 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:10 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:16 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:22 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:28 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:34 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:40 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:46 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:52 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:58:58 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:04 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:10 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:16 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:22 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:28 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:34 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:40 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:46 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:52 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 2:59:58 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:04 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:10 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:16 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:22 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:28 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:34 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:40 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:46 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:52 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:00:58 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:04 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:10 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:16 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:22 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:28 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:34 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:40 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:46 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:52 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:01:58 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:04 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:10 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:16 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:22 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:28 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:34 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:40 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:46 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:52 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:02:58 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:03:04 PM MainApplication simulateGossip
+INFO: Simulated gossip: Membership list updated for all nodes
+Sep 25, 2023 3:03:10 PM MainApplication simulateGossip
+>>>>>>> b855e96b7ab331dc62f2f676f3674bc7a7ffc158
+INFO: Simulated gossip: Membership list updated for all nodes
